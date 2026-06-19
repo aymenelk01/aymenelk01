@@ -2,7 +2,7 @@
 Who's Aymen Elkharchi?
 
 **Junior Cloud Engineer | AWS Builder | Infrastructure as Code**  
-📍 Based in Italy
+Based in Italy
 
 ---
 
@@ -14,7 +14,7 @@ My approach: hands-on infrastructure as code, architectural design patterns, and
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Cloud Platform**: AWS (VPC, EC2, RDS/AURORA, S3, CloudFront, ALB, ASG, DynamoDB, IAM, ECS)
 - **Infrastructure as Code**: Terraform (modular architecture, multi-module projects)
@@ -22,11 +22,11 @@ My approach: hands-on infrastructure as code, architectural design patterns, and
 
 ---
 
-## 📌 Portfolio Projects
+## Portfolio Projects
 
 ### 1️⃣ Three-tier e-commerce infrastructure on AWS
 
-**Status**: ✅ **COMPLETE** — All 6 modules built, tested, and deployed.
+**Status**:  **COMPLETE** — All 6 modules built, tested, and deployed.
 
 A production-grade infrastructure built entirely with **Terraform modules**, deployed in `eu-south-1` (Milan).
 
@@ -41,13 +41,13 @@ A production-grade infrastructure built entirely with **Terraform modules**, dep
 
 **Modules**: vpc, security, compute, database, storage, cdn
 
-👉 **[View on GitHub](https://github.com/aymenelk01/Aws-Three-Tier-Infrastructure)**
+ **[View on GitHub](https://github.com/aymenelk01/Aws-Three-Tier-Infrastructure)**
 
 ---
 
 ### 2️⃣ Massar — AWS redesign of Moroccan education platform
 
-**Status**: 🔨 **IN PROGRESS** — VPC module and architecture finalized, building remaining modules.
+**Status**: **IN PROGRESS** — VPC module and architecture finalized, building remaining modules.
 
 An architecture study redesigning the Moroccan Ministry of Education's Massar platform for AWS, handling **495,000 simultaneous users** during results release.
 
@@ -71,11 +71,11 @@ An architecture study redesigning the Moroccan Ministry of Education's Massar pl
 
 **Next**: Finish VPC module → build security module → remaining 8 modules → mock Massar app (Flask/Node.js) → containerize → GitHub
 
-👉 **[View on GitHub](https://github.com/aymenelk01/massar-aws-infrastructure)**
+**[View on GitHub](https://github.com/aymenelk01/massar-aws-infrastructure)**
 
 ---
 
-## 📚 Learning Goals
+## Learning Goals
 
 - ✅ **AWS SAA-C03 Certification** — In progress with freeCodeCamp (~6 hrs/day, 3-month timeline). Hands-on labs with this infrastructure project.
 - ✅ **Infrastructure as Code mastery** — Building modular, DRY, repeatable Terraform code following best practices.
@@ -83,7 +83,7 @@ An architecture study redesigning the Moroccan Ministry of Education's Massar pl
 
 ---
 
-## 🎮 Beyond Tech
+## Beyond Tech
 
 When I'm not building infrastructure, you'll find me:
 
@@ -95,7 +95,7 @@ When I'm not building infrastructure, you'll find me:
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 - **GitHub**: [aymenelk01](https://github.com/aymenelk01)
 - **LinkedIn**: [Connect with me](www.linkedin.com/in/aymen-elkharchi-640a30312)
