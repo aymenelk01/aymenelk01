@@ -8,7 +8,8 @@ Who's Aymen Elkharchi?
 
 ## About me
 
-Junior Cloud Engineer with hands-on experience designing and deploying production-grade AWS infrastructure from scratch. I build real systems — not tutorials — using Terraform, GitHub Actions CI/CD pipelines following the The AWS Well-Architected Framework and least privilege principe. Currently pursuing the AWS Solutions Architect Associate (SAA-C03) certification and building projects for my portfolio. I document what I build on LinkedIn.
+- I'm Junior Cloud Engineer with a Higher Technical Diploma in ICT from ITS Fabriano and hands-on experience designing and deploying production-grade AWS infrastructure from scratch. I build real systems — not tutorials — using Terraform, GitHub Actions CI/CD pipelines following the The AWS Well-Architected Framework and least privilege principe. Currently pursuing the AWS Solutions Architect Associate (SAA-C03) certification and building projects for my portfolio.
+- I document what I build on LinkedIn.
 
 ---
 
@@ -19,6 +20,20 @@ Junior Cloud Engineer with hands-on experience designing and deploying productio
 - **CI/CD**: GitHub Actions 
 - **Containers:** Docker, ECS Fargate, 
 ---
+## Educations
+**Higher Technical Institute (ITS) Fabriano — 2024–2026**
+- Higher Technical Diploma in ICT
+- Coursework: Web Development, Database Design, Networking, Cloud Architecture
+
+## Experience
+**(Intership)Full Stack Developer — 2025**
+- Built a full-stack web platform featuring secure file transfer via email and Google Drive integration, user authentication (login/sign up), an dashboard for users, and an AI chatbot for file analysis and user guidance.
+- Stack: Angular, NestJS, MongoDB
+
+**(Intership)Full Stack Developer — 2026**
+- Built a Business Registry Platform — a comprehensive supply chain and business management solution for small to mid-sized enterprises. The platform covers customer and supplier registries, product catalogs, warehouse inventory tracking with real-time stock levels, complete order lifecycle management, this platform includes secure user authentication with the ability to create user accounts with specific roles and permissions, role-based access control, and Excel integration capabilities for seamless data import and export, enabling businesses to centralize their operations and improve operational efficiency through a single, unified web-based interface.
+- Stack: Angular, Node.js, SQL Server
+- **Currently designing the infrastructure of this web application on AWS.**
 
 ## Portfolio Projects
 
@@ -91,5 +106,5 @@ When I'm not building infrastructure, you'll find me:
 
 ---
 
-**Currently**: Completing SAA-C03 certification • Building AWS architecture Porject using terraform  • Sharing learnings on LinkedIn
+**Currently**: Completing SAA-C03 certification • Building My third AWS architecture Porject using terraform  • Sharing learnings on LinkedIn
 
