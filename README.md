@@ -1,4 +1,4 @@
-# Aymen-Elkharchi
+# Aymen Elkharchi
 Who's Aymen Elkharchi?
 
 **Junior Cloud Engineer | AWS Builder | Infrastructure as Code**  
