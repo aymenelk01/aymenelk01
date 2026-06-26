@@ -25,6 +25,10 @@ Who's Aymen Elkharchi?
 - Higher Technical Diploma in ICT
 - Coursework: Web Development, Database Design, Networking, Cloud Architecture
 
+## Github Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aymenelk01&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymenelk01&layout=compact&theme=radical&count_private=true)
+
 ## Experience
 **(Intership)Full Stack Developer — 2025**
 - Built a full-stack web platform featuring secure file transfer via email and Google Drive integration, user authentication (login/sign up), an dashboard for users, and an AI chatbot for file analysis and user guidance.
