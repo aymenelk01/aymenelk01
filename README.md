@@ -27,7 +27,7 @@ Who's Aymen Elkharchi?
 
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aymenelk01&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymenelk01&layout=compact&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymenelk01&show_icons=true&theme=radical&count_private=true)
 
 ## Portfolio Projects
 
