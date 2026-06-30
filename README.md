@@ -26,8 +26,8 @@ Who's Aymen Elkharchi?
 - Coursework: Web Development, Database Design, Networking, Cloud Architecture
 
 ## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aymenelk01&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymenelk01&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=aymenelk01&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymenelk01&show_icons=true&theme=radical)
 
 ## Portfolio Projects
 
