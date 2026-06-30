@@ -29,16 +29,6 @@ Who's Aymen Elkharchi?
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aymenelk01&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymenelk01&layout=compact&theme=radical&count_private=true)
 
-## Experience
-**(Intership in WeCodeYou)Full Stack Developer — 2025**
-- Built a full-stack web platform featuring secure file transfer via email and Google Drive integration, user authentication (login/sign up), an dashboard for users, and an AI chatbot for file analysis and user guidance.
-- Stack: Angular, NestJS, MongoDB
-
-**(Intership in Altesia)Full Stack Developer — 2026**
-- Built a Business Registry Platform — a comprehensive supply chain and business management solution for small to mid-sized enterprises. The platform covers customer and supplier registries, product catalogs, warehouse inventory tracking with real-time stock levels, complete order lifecycle management, this platform includes secure user authentication with the ability to create user accounts with specific roles and permissions, role-based access control, and Excel integration capabilities for seamless data import and export, enabling businesses to centralize their operations and improve operational efficiency through a single, unified web-based interface.
-- Stack: Angular, Node.js, SQL Server
-- **Currently designing the infrastructure of this web application on AWS.**
-
 ## Portfolio Projects
 
 ### 1️⃣ Three-tier e-commerce infrastructure on AWS
@@ -78,6 +68,16 @@ Architecture:
 - **CI/CD:** GitHub Actions with OIDC keyless auth, Checkov security gates, Infracost on every PR
 
 **[View on GitHub for more informations](https://github.com/aymenelk01/massar-aws-infrastructure)**
+
+## Experience
+**(Intership in WeCodeYou)Full Stack Developer — 2025**
+- Built a full-stack web platform featuring secure file transfer via email and Google Drive integration, user authentication (login/sign up), an dashboard for users, and an AI chatbot for file analysis and user guidance.
+- Stack: Angular, NestJS, MongoDB
+
+**(Intership in Altesia)Full Stack Developer — 2026**
+- Built a Business Registry Platform — a comprehensive supply chain and business management solution for small to mid-sized enterprises. The platform covers customer and supplier registries, product catalogs, warehouse inventory tracking with real-time stock levels, complete order lifecycle management, this platform includes secure user authentication with the ability to create user accounts with specific roles and permissions, role-based access control, and Excel integration capabilities for seamless data import and export, enabling businesses to centralize their operations and improve operational efficiency through a single, unified web-based interface.
+- Stack: Angular, Node.js, SQL Server
+- **Currently designing the infrastructure of this web application on AWS.**
 
 ---
 
