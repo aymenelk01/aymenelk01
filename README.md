@@ -27,8 +27,7 @@ Who's Aymen Elkharchi?
 
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=aymenelk01&show_icons=true&theme=radical)
-![Top Langs](https://vercel.app)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymenelk01)](https://github.com/anuraghazra/github-readme-stats)
 ## Portfolio Projects
 
 ### 1️⃣ Three-tier e-commerce infrastructure on AWS
