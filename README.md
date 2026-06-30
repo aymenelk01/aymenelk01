@@ -75,8 +75,11 @@ Architecture:
 - Stack: Angular, NestJS, MongoDB
 
 **(Intership in Altesia)Full Stack Developer — 2026**
-- Built a Business Registry Platform — a comprehensive supply chain and business management solution for small to mid-sized enterprises. The platform covers customer and supplier registries, product catalogs, warehouse inventory tracking with real-time stock levels, complete order lifecycle management, this platform includes secure user authentication with the ability to create user accounts with specific roles and permissions, role-based access control, and Excel integration capabilities for seamless data import and export, enabling businesses to centralize their operations and improve operational efficiency through a single, unified web-based interface.
-- Stack: Angular, Node.js, SQL Server
+-- Designed and built a modular Angular Single-Page Application (SPA) with advanced security (Auth guards, session management) and a modern Glassmorphism UI.
+- Developed a robust ASP.NET Core 8 Web API backend utilizing Entity Framework Core to manage relational schemas and perform highly transactional inventory operations.
+- Implemented an automated Warehouse Inventory Management system handling batch Stock In (Carico) and Stock Out (Scarico) movements.
+- Engineered a transaction-safe chronological stock allocation algorithm (FIFO/FEFO) for shipping confirmation, utilizing database transactions with rollback - capabilities to ensure strict data consistency during multi-item stock allocations.
+- Created a high-throughput data portability service utilizing ClosedXML to support batch import and export of Excel registries for clients, suppliers, articles, and users.
 - **Currently designing the infrastructure of this web application on AWS.**
 
 ---
